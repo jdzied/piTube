@@ -1,7 +1,7 @@
 # piTube
 Shellscript: RaspberryPi Youtube Playlist Sync
 
-# requirements
+# Requirements
 <pre><code>sudo apt install youtube-dl
 sudo apt install mplayer
 </code></pre>
